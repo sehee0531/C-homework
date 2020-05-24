@@ -1,4 +1,4 @@
-/*
+
 #include<iostream>
 #include<string>
 
@@ -51,4 +51,3 @@ int main() {
 	cout << a.getowner() << "ÀÇ ÀÜ¾×Àº " << a.inquiry() << endl;
 
 }
-*/
